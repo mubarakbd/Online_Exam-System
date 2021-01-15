@@ -1,0 +1,16 @@
+*
+{
+	margin: 0px
+	padding:0px;
+}
+
+.card-header{
+	background: #dddd;
+}
+.card-header h2{
+	font-size: 20px;
+	font-weight:700;
+	font-style: none;	
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
